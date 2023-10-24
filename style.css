@@ -1,0 +1,155 @@
+/*------body-style------*/
+
+body{
+    background-color: #EEEDEF;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #E6F8F5;
+    margin: 0 auto;
+    padding: 30px;
+
+}
+/*----------header----------*/
+header{
+         
+}
+
+/*-------------image--------------*/
+.img-style{
+    height: 150px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 20px;
+    float: left;
+
+    
+}
+
+.bio{
+    float: left;
+    padding: 40px;
+
+    
+}
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #11999e;
+
+}
+.phn-nbr{
+    
+    float: right;
+    padding: 30px;
+    
+    
+    
+        
+}
+.phn-nbr a{
+    color: #11999e;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.phn-nbr a:hover{
+                
+                 color: rgb(0, 0, 0);
+                 text-decoration: underline;
+                 
+                 
+}
+/*----------div clear ------------*/
+.div-clear{
+         clear: both;
+}
+.hr-row{
+        border: black solid 2px;
+        margin: 15px auto;
+        margin-bottom: 0px;
+        width: 100%;
+}
+
+
+
+/*-------parsonal section-------*/
+
+
+ .parsonal-section{
+
+               
+ }
+.content{
+
+}
+/*-------side of div----------*/
+
+ .left-div{
+          width: 30%;
+          float: left;
+ }
+
+ .right-div{
+        width: 70%;
+        float: right;
+        
+       
+ }
+
+ /*-------side of div end----------*/
+ .text-color{
+            color: #11999e;
+            width: 70%;
+           
+ }
+
+ .section-left{
+                width: 45%;
+                float: left;
+
+ }
+ .section-Right{
+              width: 45%;
+              float: right;
+ }
+ .section-left p a{
+    text-decoration: none;
+    color: #11999e;
+
+ }
+
+ .section-right p a{
+    text-decoration: none;
+    color: #11999e;
+ }
+
+ .section-left p a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.section-right p a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.ft-style{
+        background-color: black;
+        color: white;
+        text-align: center;
+}
+
+
+.ft-style a{
+        text-decoration: none;
+        color: white;
+        padding: 30px;
+     
+
+}
+.ft-style p{
+    color: white;
+    padding: 20px;
+}
